@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public anonymous MiniZStudio lap record v1",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "courseId",
+    "lapTimeMilliseconds",
+    "recordedAt",
+    "publicationApproved"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "courseId": {
+      "type": "string",
+      "format": "uuid"
+    },
+    "lapTimeMilliseconds": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "recordedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "publicationApproved": {
+      "const": true
+    },
+    "vehiclePresetId": {
+      "type": "string"
+    },
+    "regulationId": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
