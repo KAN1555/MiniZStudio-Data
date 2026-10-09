@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MiniZStudio shared vehicle and regulation catalog wrapper",
+  "type": "object",
+  "required": [
+    "Version",
+    "Bodies",
+    "Regulations"
+  ],
+  "properties": {
+    "Version": {
+      "const": 1
+    },
+    "Bodies": {
+      "type": "array"
+    },
+    "Regulations": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": false
+}
