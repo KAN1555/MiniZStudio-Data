@@ -1,0 +1,2509 @@
+{
+  "SchemaVersion": 3,
+  "Id": "8d7761d3-cf8a-45fc-ab05-21cde2dba1d5",
+  "Name": "2026 \u30DF\u30CB\u30C3\u30C4\u30DF\u30FC\u30C6\u30A3\u30F3\u30B0 \u5927\u962A",
+  "Category": "Unclassified",
+  "Venue": "",
+  "Naming": {
+    "Year": 2026,
+    "Event": "\u30DF\u30CB\u30C3\u30C4\u30DF\u30FC\u30C6\u30A3\u30F3\u30B0",
+    "Place": "\u5927\u962A"
+  },
+  "Columns": 23,
+  "Rows": 11,
+  "PanelSizeMm": 500,
+  "Panels": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 8,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 0,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 8,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 1,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 8,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u6.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 2,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 8,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u5.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u7.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 3,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u7.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 8,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u7.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 4,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u6.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u5.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 8,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u6.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u5.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 5,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 6,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u6.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u7.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u5.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 7,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u5.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u7.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u6.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 8,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u3.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u1.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 9,
+      "Kind": "LayoutTile",
+      "Rotation": 0,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 0,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 1,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 2,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 3,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 4,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 5,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 6,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 7,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 9,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 10,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 11,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 12,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 13,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 14,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 15,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 16,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 17,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 270,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 18,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 19,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 20,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 21,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 90,
+      "AssetName": "MiniZ_Layout.u2.gif",
+      "NeedsReview": false
+    },
+    {
+      "X": 22,
+      "Y": 10,
+      "Kind": "LayoutTile",
+      "Rotation": 180,
+      "AssetName": "MiniZ_Layout.u4.gif",
+      "NeedsReview": false
+    }
+  ],
+  "Image": {
+    "FileName": "2026-miniz_meeting-osaka.png",
+    "Base64": "iVBORw0KGgoAAAANSUhEUgAAAuAAAAFgCAMAAADNWDx\u002BAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM1BMVEX/////5\u002BfY1tbNzc3/np6vr6//Y2P/NDRsbGz/AgLgAgI3NzeiBAQwMDBFIyNsEBAAAABD21uNAAARxUlEQVR42uzc0W4aZxBA4TMz\u002B6NUVdS8/1NGiqq0wP5TyapMHMV2VWwDy/kufOGRLzx7WJYFgbRly7O/Lkjge/Gi1bnzS85/g5nMlbX/a\u002BARS6SPfd2KhEyqDzSvB55ZyQMr1w3J\u002BWmdR34SPBUjEggGdAPfBi86OHd\u002Byfkfa7FOaIDJvl8MfMkCiuqGB99\u002B50V/Ond\u002ByflnICBWVoCV/fOXKFGVBKN78ij5FefOLz0/aeiIWmdT7Nb1mT\u002BPMRKyZntBp5vTM5YKqGX5deA5CmrnK0vdqo4RQdbyq8BjKWKXnr51w2YlTwpf\u002BFcuRYzpinTbstY14fjTGTzsW5vQs4qs5WngOexbGzHzsfBT4AX2rW3oKjKDU\u002BBLQfnqUhsxE2qcAo9MIg1cm1FB5GPgo8C\u002BtR0dSS4BJFAB5fs72pIKqoAEKgmvwLUpc0ABCRGQ3kHRtnSQCyREQrkQbUsPABIGhPvQBlWQLHiFog3qIgcJXqFoixqAJCG8haLtySAiPXtru7ISwDd5tFXJ9HNW2qROIElYXYY2qKASvImi7UrwDK7t8gwuSberqsbvn5/Fw0/nzm9u/qmq0lvg2izf45GBSwYuGbhk4JKBSwYuGbgMXDJwycAlA5cMXDJwycBl4JKBSwYuGbhk4JKBSwYuA5cMXDJwycAlA5cMXDJwSfL7wZ079/vBJa/BJQOXDFwG7gpk4JKBSwYuGbhk4JKBy8AlA5cMXDJwycAlA5cMXAYuGbhk4JKBSwYuGbhk4LpvC\u002BeICQde4nzz8w0Hnof2ADrfbOBxaJ8C9YoEmDcZ\u002BLRvvWoPEFC3FfhJO3f\u002BmoYjMZh8tOBMXzjPV67bFy7rq88BZ1koyF3ynG\u002Bfec7hAM3XVwL5yv\u002BwQEEC34sXrefOf4OZzJW1\u002BYVz/78vl97PpfcH7CgexJiv9XX\u002B/GmfC9cnYonkAyVkUn2g\u002BZn7OX9/e4olgd7HmHyohWuTWcmDSD5Szk/rPPIT9/MW\u002B1tZWSqh94O\u002B58BjRALBgG6A5EXrufPdWqwTmqSi9s0TW9nP5fd3PO4KODD6fgNfsoCievKvHS86nDufMckkVlZIBnue2Mx\u002BLr\u002B/fewSOIy\u002B08CjKglG9\u002BRR8oyz5ycNHVHrbIrdunKyof1cfn/990Pih1j6Hj9sFWMkZM3mEnrGUgG1LJy4nzfdXx8A\u002BsgdBp6joHbJ5XSMCLIWHrmft93f/P430Mf7CzyWInY5m0ualTw5Qu7nrfc3DwBr3FngOYoYs7m03NWPR8j9vPn\u002Bjh95Ds9rOj\u002BNyeX1rB\u002BPkPt5\u002B/3Nh8LjngLPcUXHb\u002BbpCOF\u002B3mF/8wAc8p4CLxiTK9FVZAYA7uc99nf8C9jn3QS\u002BFFRzNWZCDQDcz7vsryew3kvgkUlkc0UqiARwP\u002B\u002Bzv/2Ete8k8FGQzRXpSHIJwP28z/66gfU\u002BAq\u002BASq5LxT/sncFu4zgQRB9bdrD7/z\u002B6t2wkdfcAxswYGRgMMiYTUax3zSHo5wJJM1KFZQHkp5O/1YGcI\u002BBGWZJjEVdYAPnp5W8FvEwQ8FLAgqORBbuA/HTztwFTBNxg4XDkFQD56ebPA1bK6QN\u002BhXLcg6T8dPOXCZw/4BcOugPngl2Rn37\u002B1jnuwY\u002B6AycA8tPR3wasZw\u002B4QUmOiBVKkZ\u002BO/vYZVvCFA2OL/PT0F/TGVFKuEvfvw4E8ubuAJTkiaYD89PYX5z\u002BDO8dkgUV\u002BevrzoL8\u002BdMysID89yZwi4K4My49WcK3g4vMUKRDf2a/\u002B34H7wdOB1yf7o5/4/b1/nt6qf3t8P\u002B374/vPt21P3oRZ\u002BUR/9PX68lIKI2GF5tT9aD9tjn3dPbGVf64XHqN78J9\u002BlMgjtcuWlw1G79\u002Buz6d\u002B8pkDzn6B0fu36/Opn3zqgFuO3r9dx1L95LoH/3x/tE6a8nPO//CQ5bqRBrvMy8\u002BXYOrf/hP1kyvgT/ZH6xOUn6/C1L8Nd9RProA/T5g\u002BQfn5Ikz923fUT66At\u002ByPln356Y6pf/s36idXwNv2R2sTlp/emPq3f6J\u002BcgW8JXHVq1jy0x9T/zY31E\u002BugLcldUsgP/0x9W8DqJ9cAe/SH61VSn76YurfBlA/uQLeHivoPXL5OXWzlekmTH5UPS3E33Lh\u002B0hz\u002BpOW9GN8P9vH/hTwv2Rxlp3OeFihG\u002BP72fjYnwJ\u002BRErhRvpLaKt\u002B7KfO3Z8CfjQckl9sF1251fzUuflTwA\u002BEqTnnE35S/eBC/d0D94P/y1K\u002BsT86WvdD25YARBI79J1vfD9P9HcP0Q9\u002B4VyYrwB4hL5Zyg9cOBNxWbnxqijLzw0joHAOSq4Avr1yJ/RFo\u002BJnihXcl\u002BQMlD2B8J33\u002BKJbwnd\u002B9Kf6IfEE4E1Jlp87RnIOMgHeXvVYNXU/c2EEeGF43IHtLfiTANch/O5nMgwgGJ3IBLY9eIQuDO9\u002BZsNwJwuDUxzwnQc0nG98P/NhZIAzOA5sK4/IANezVTc/E2LgQRhDU12fbvMp374zIwaZpDMynuArD2k23/h\u002BpsSAGHyJKwmsPKbVfOP7mTfge5JbYVTKVnvxqtl8o/uZOOBsTgajsgPbToUm8w3uZ\u002BqAZ0AYY2IJ7FRoNN/YfqYOOLuTXhgSB/6nQrP5RvYzecDZA4/CcIThEFRoON\u002BwflT8E445lgyGOcCaVGg536h\u002B1Gy1M2YCHPCkQtv5xvSjbkLYPfA9C\u002BOxUqEy3yysKt/8lYD0MEbC\u002BYjKfKdHD\u002BGAvU8Avv1g7w52IsdiMAof/06qm12//1POrjVJbI\u002BEUKNumKpiGBJu8LeNBFxjRaGQTmTnvEE9n69v4F9zwdkioJYUZ/R8vk5Gf9EFZ1sjIZYoiRFYQQTXHH6\u002B4\u002BfTffBfatEsqAgT6LP3o3Pipnefbx23r539nk0mfpeLu4AKyM/ejxZAcNW7z7eO29dW/53JxB9q2y6YAOqz96NTQHDV1fPt4Nj59IKLl5ZlyUzutxqHELddOd9uVusXMH2u8E/9jQQuoPi0Utz0vvO95/rx\u002BvMisB\u002B8z18c6wcf66/ug4/dB7/1HX58cD86P7g//eOO6283gYOAn85V8QA21RHzqQB\u002BPkCKDKJ4ofvg7SWzycQbzMkRlMUjgYTXSvUzeLtBcvHIxF2sPsV7NpXfI7de8HaNzSbAmKEKQFwVNldxDLuscAknEgrh5kv1grd/NckBxyt5cuGqdUoOs02QlkhYECBmll7w9jpzF8ZclfwiriuOo\u002BJRQZl5ZOFcIjhC/y/gs7N5FsizGFGlTW7g09QL3l7S7OAXMa6y2Qz51Ave/mSTYxdlMbJ0gXzqZ/D2O02Ozcnw5BGCre/gjWd2lv2m0h351Avenmk\u002By34DKUc\u002B9YK3X\u002BQwJydR7kjWC96eTA5enEYKfO4FbzwyCVNxIm6YesHbo9lBxYmUCU3WC94AN3Cd71DuveANcGFenEvO0AveADNQcjZlaOoFb5jAOZ3qT1HaoxmMc3LrBf/yJkDJ\u002BZSjuRe8CZwTqn5EaYDAijOSYdYL/tU5JybvBW89pP7dnViCF2dU6gVvCIJzcuhHlAbeI\u002BgF75fxtV7wvoO3nRm3dB\u002B7DWwavn/tXBVH9bHff922gp8PuH3E17/dD3//\u002BbXwk4P74IP3r2/oPvZX74eLP2m6fHMBmLv7p\u002B5f8xay73N3jnhW\u002BuD5JIBxqGn4/rW4KsbuYwcprMbshwtgXjjSNHj/\u002BvbPN24f24AEwmvMfniKw03D96/FNSP3saMG74drs8KsOJD\u002BU/\u002B6\u002B9g7SaiB5yNAzpH09v5197H3YQAbCWE9n/9Kb\u002B9fdx97HxY8yWHn48DMkfRHP7U4O10GaasGEBBB2dDz\u002BcaB9Lb\u002Bdfex95MQAZUQw87HABnH0Zv6193H3o8ACogkNep8ZoCZ4\u002Bgt/evuY\u002B/HosgEqKJi1PkkgDuH0Rv6193H3pEF1AZAJqlh53MBjMPoDf3r7mPvu9\u002B58mgrarVR51MG84Wj6P7\u002Bdfexd5RBRsGjNagcdT4lwDmK7u5fdx97R0pg40klpEadjznwzTiG7u5fdx97R1Hkyi9bUGGjzscAiWPo3v5197F3VAGVPNuSSBt0PnkBLsYhdGf/uvvY\u002B7EKiAWeZSSRNuZ8lBfg\u002B8QRdF//uvvY\u002BzELiJXfbE8bPuR8MgFmcQDd2b/uPvZeLBeIpXhlw7eyEecjJgO\u002Bif3pvv5197H3ou35\u002BeTFhlekhpzP04ZP7E739a\u002B7j70Pq7UgVnh9w4lVNuJ8ygHmB/YmnBu6j70bZRQRS/GaLQJqSQ05n8kAHsS\u002B1P22z8JUa5CxLfC6bY2EWKIkhjPNAPM3djWRwpOvqBR8LEtYuc3AIgrI2Ph3tWgWVIQJNNZ8KucVxEMs7GdCEMaX5IHzgbTW7QUXsEIBZK3FVbm4C6iA3GM\u002BG/8b1ZwB\u002BCW3fbMRnv2A8AFsLW5b4ElkBbfUtl0wARQAAkj28097d7TbNhJDYfgfSjawd33/F02jEckFDAPZYBvJbuR2RnO\u002BWwEFSbGCYsnH35B5XYBpusT7n1xwL9rGF4jkYZF4JA9ZKFcwuFkACkx0wGLOSMD\u002BoWakruD9S7YFZMDKE/IdM5iMu4SVciFoXpmsJsCFSFiUD953PvgPvkn55d8y95V/fXx\u002B9HP54Mf/\u002Bz/2j\u002B\u002B6MnFTLnH0fOIF\u002B1EKC3dvG/nyR9SvPOETWJiYDcili2gEhxky/kS\u002BvBb8FBxnngxyuZB9xKmV6U/kyxt/lxP6Q\u002BAY67sD1FroSbnOZ13wAoQ\u002BpTzO8jMA\u002BtrwOZKTLrjrF3MOlu8/A6he9NZyG7cogX4X6lBZAXLVJO7s7\u002Bdf6x7lSPH2rg1vZMGdOz1IPVJUvX7xwZrIv9bJONKqa/gHayP/WifiSPEOumpwY23kX\u002Bs7RYeKClQNFbA28q91CT/W\u002BhNYtOFgLeRf6xJ\u002BuAx05wdgreRf647xWEvoSRqAtZJ/rY8Kj5WpSziANZJ/rZuUoy2OHhODNZN/rScTB1v0uAewhvKvteHHqvpKIlgr\u002Bdfa8MN5wELRgjeRf60NP1ymvlaOtZV/refLR1o0Aqyx/Gt9mHKkqi239vKvdRE/jN4oxNrLv9ZF/Pv0pj13pvzrM9PDnrn5/OvKtjQ9rtsUkxa85fzryjYP3bV/ySdlEzaef70v/apbzS9kasHbzb9\u002BWJ11lyK/Nredf60X4kT54N/yQ/nbygf/QjrwNrHJX338ni/dQD54y/NpIB/87\u002BS/G7/PCm24JC\u002Bj\u002BYz7oCeNJpTkdTSfgf/ILNcKxiZ/9fFyyeR1NJ\u002BBF5x1hiub6quPz8EraT4jL7glGFtefzx5Kc1HL1uJaMFFtOAiWnARLbiIFly04CJacBEtuIgWXEQLLqIFF9GCixZcRAsuogUX0YKLaMFFtOAiWnDRgotowUW04CJacBEtuIjywZUPLjDzD1PZy18\u002B5/Gy5v4Gjz6ft377L2vqFkV0Dy7SLyOgMCxnx\u002Bjz6bx/N8ALQypAsEPzwUvH9Rvjcv1C4ann4wkYycACUID816Lz/gMjwAsDKgArO0afz73/bus3gGBExWGf5gPRcf2GO1kYkAPOnsHn03H/DjhGBjgDCnBnz/DzyQDvt34DD8IYjgEkezSfW//d1m\u002BQSTqjKZ5EsEvzufXfbf0GxIiXqOKQK7s0n3v/ndZvwJpkLeOdv6js03zu/XdavwFUJ4OhhBOe7NN87v13Wr8BZEAYA7EAVtin\u002BXz032P9BsDqpBfG4UlUHqH5fPTfY/3GzRp4FEaRDhk8QvP56L/H\u002Bo2b8IHOYEkHX3iI5rPRfwf1G9ys45zBUhy88hjNZ6P/DuqfuVvBPMySkyvx1PVb89nov4P67dP/0fQwzs3W5/Zb89nov4P67XMHeLXCeZWsCV55mOaz0X8H9dunDhxyCeOsLDxxX5KHaT4b/XdQv8GHtXqAL55mnE6xrE74uvAEzWej/w7qn/mvXOxikO7FwACobGj9\u002BF2B4p5A\u002BMpTNJ\u002BN/juof\u002BazWKbJgHSIU5xAAyokQGRNnqP5bPTfQf0zfJbreqUYQHIGC9x5pPMszWej/w7qn/m/hXIF40wi8Uiep/ls9N9B/TO/ku\u002BYwWRAsqGD4wEZsPJ7NJ\u002Bt/tuv/1/NoeWrqryV3AAAAABJRU5ErkJggg==",
+    "Sha256": "3C7ED84F1FBC7711D0A0C606E787F8A0DB46A9AC579697AC4E407644F69DF7BC"
+  },
+  "Start": null,
+  "StartLine": {
+    "AnchorX": 0,
+    "AnchorY": 3,
+    "Direction": 0,
+    "X1": 0.125,
+    "Y1": 3.5078125,
+    "X2": 1.875,
+    "Y2": 3.5078125,
+    "LapDirection": "Clockwise",
+    "AutoDirection": true
+  },
+  "ImageGrid": {
+    "OffsetX": 0,
+    "OffsetY": 0,
+    "CellSize": 32
+  },
+  "ImportIssues": [],
+  "ImageOpacity": 0.45,
+  "ShowImage": false,
+  "Validation": {
+    "CheckedAt": "2026-10-15T15:10:14.9548478+00:00",
+    "CanSave": true,
+    "IsLayoutValid": false,
+    "CanAnalyze": false,
+    "Findings": [
+      {
+        "Severity": "\u78BA\u8A8D",
+        "Code": "START_LINE_OK",
+        "Message": "\u8D70\u8DEF\u5E45\u3092\u6A2A\u65AD\u3059\u308B\u30E9\u30A4\u30F3\u3092\u78BA\u8A8D\u3057\u307E\u3057\u305F\u3002\u4E21\u7AEF\u306F\u7D20\u6750\u4E0A\u306E\u8D70\u8DEF\u5883\u754C\u3067\u3059\u3002",
+        "X": 0,
+        "Y": 3
+      },
+      {
+        "Severity": "\u8A2D\u5B9A",
+        "Code": "LAP_DIRECTION_SET",
+        "Message": "\u81EA\u52D5\u5224\u5B9A\u3057\u305F\u5468\u56DE\u65B9\u5411\uFF1A\u53F3\u56DE\u308A\uFF08\u6642\u8A08\u56DE\u308A\uFF09\u3002\u73FE\u5728\u306E\u914D\u7F6E\u3068\u306E\u6574\u5408\u6027\u306F\u7D4C\u8DEF\u5019\u88DC\u306E\u5224\u5B9A\u7D50\u679C\u3092\u78BA\u8A8D\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
+        "X": null,
+        "Y": null
+      },
+      {
+        "Severity": "\u78BA\u8A8D",
+        "Code": "SURFACE_OK",
+        "Message": "\u7D20\u6750\u306E\u8D70\u8DEF\u9762\u304C\u3064\u306A\u304C\u308A\u3001\u7A7A\u304D\u30DE\u30B9\u3078\u306E\u958B\u53E3\u304C\u306A\u3044\u3053\u3068\u3092\u78BA\u8A8D\u3057\u307E\u3057\u305F\u3002\u4E00\u5468\u7D4C\u8DEF\u30FB\u5206\u5C90\u30FB\u8ECA\u4E21\u304C\u901A\u308C\u308B\u5E45\u306F\u672A\u691C\u8A3C\u3067\u3059\u3002",
+        "X": null,
+        "Y": null
+      },
+      {
+        "Severity": "\u672A\u5B9F\u88C5",
+        "Code": "ANALYSIS_UNAVAILABLE",
+        "Message": "\u7269\u7406\u89E3\u6790\u306F\u672A\u5B9F\u88C5\u3067\u3059\u3002\u30BF\u30A4\u30E0\u3084\u8D70\u884C\u30E9\u30A4\u30F3\u306F\u7B97\u51FA\u3057\u3066\u3044\u307E\u305B\u3093\u3002",
+        "X": null,
+        "Y": null
+      },
+      {
+        "Severity": "\u7D4C\u8DEF",
+        "Code": "SURFACE_ROUTE",
+        "Message": "\u53F3\u56DE\u308A\u306B\u623B\u308B\u63A5\u7D9A\u3092\u78BA\u8A8D\u3057\u307E\u3057\u305F\u3002\u88DC\u52A9\u7DDA\u306F\u4E2D\u5FC3\u7DDA\u30FB\u8D70\u884C\u30E9\u30A4\u30F3\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002\u8DDD\u96E2\u30FB\u8ECA\u5E45\u306F\u8A55\u4FA1\u3057\u3066\u3044\u307E\u305B\u3093\u3002",
+        "X": null,
+        "Y": null
+      }
+    ],
+    "Route": null,
+    "SurfaceRoute": {
+      "Status": "Candidate",
+      "Message": "\u53F3\u56DE\u308A\u306B\u623B\u308B\u63A5\u7D9A\u3092\u78BA\u8A8D\u3057\u307E\u3057\u305F\u3002\u88DC\u52A9\u7DDA\u306F\u4E2D\u5FC3\u7DDA\u30FB\u8D70\u884C\u30E9\u30A4\u30F3\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002\u8DDD\u96E2\u30FB\u8ECA\u5E45\u306F\u8A55\u4FA1\u3057\u3066\u3044\u307E\u305B\u3093\u3002",
+      "DetectedDirection": "Clockwise",
+      "Points": [
+        {
+          "X": 0.96875,
+          "Y": 3.53125
+        },
+        {
+          "X": 0.96875,
+          "Y": 3.46875
+        },
+        {
+          "X": 0.96875,
+          "Y": 2.84375
+        },
+        {
+          "X": 1.09375,
+          "Y": 2.78125
+        },
+        {
+          "X": 1.09375,
+          "Y": 2.59375
+        },
+        {
+          "X": 1.21875,
+          "Y": 2.53125
+        },
+        {
+          "X": 1.21875,
+          "Y": 2.34375
+        },
+        {
+          "X": 1.28125,
+          "Y": 2.34375
+        },
+        {
+          "X": 1.28125,
+          "Y": 2.21875
+        },
+        {
+          "X": 1.34375,
+          "Y": 2.21875
+        },
+        {
+          "X": 1.53125,
+          "Y": 1.71875
+        },
+        {
+          "X": 1.59375,
+          "Y": 1.71875
+        },
+        {
+          "X": 1.59375,
+          "Y": 1.59375
+        },
+        {
+          "X": 1.71875,
+          "Y": 1.59375
+        },
+        {
+          "X": 1.71875,
+          "Y": 1.53125
+        },
+        {
+          "X": 19.53125,
+          "Y": 1.53125
+        },
+        {
+          "X": 19.53125,
+          "Y": 1.59375
+        },
+        {
+          "X": 19.78125,
+          "Y": 1.59375
+        },
+        {
+          "X": 19.78125,
+          "Y": 1.65625
+        },
+        {
+          "X": 19.90625,
+          "Y": 1.65625
+        },
+        {
+          "X": 19.90625,
+          "Y": 1.71875
+        },
+        {
+          "X": 20.53125,
+          "Y": 1.96875
+        },
+        {
+          "X": 20.53125,
+          "Y": 2.03125
+        },
+        {
+          "X": 20.65625,
+          "Y": 2.03125
+        },
+        {
+          "X": 20.65625,
+          "Y": 2.09375
+        },
+        {
+          "X": 20.84375,
+          "Y": 2.09375
+        },
+        {
+          "X": 20.84375,
+          "Y": 2.21875
+        },
+        {
+          "X": 20.96875,
+          "Y": 2.28125
+        },
+        {
+          "X": 20.96875,
+          "Y": 2.40625
+        },
+        {
+          "X": 21.03125,
+          "Y": 2.40625
+        },
+        {
+          "X": 21.09375,
+          "Y": 2.65625
+        },
+        {
+          "X": 21.15625,
+          "Y": 2.65625
+        },
+        {
+          "X": 21.15625,
+          "Y": 8.71875
+        },
+        {
+          "X": 18.59375,
+          "Y": 8.71875
+        },
+        {
+          "X": 18.46875,
+          "Y": 8.40625
+        },
+        {
+          "X": 18.34375,
+          "Y": 8.34375
+        },
+        {
+          "X": 18.34375,
+          "Y": 8.15625
+        },
+        {
+          "X": 18.21875,
+          "Y": 8.09375
+        },
+        {
+          "X": 18.21875,
+          "Y": 7.96875
+        },
+        {
+          "X": 18.09375,
+          "Y": 7.84375
+        },
+        {
+          "X": 18.09375,
+          "Y": 7.65625
+        },
+        {
+          "X": 18.03125,
+          "Y": 7.65625
+        },
+        {
+          "X": 18.03125,
+          "Y": 4.84375
+        },
+        {
+          "X": 17.84375,
+          "Y": 4.65625
+        },
+        {
+          "X": 17.71875,
+          "Y": 4.28125
+        },
+        {
+          "X": 17.46875,
+          "Y": 4.21875
+        },
+        {
+          "X": 17.46875,
+          "Y": 4.15625
+        },
+        {
+          "X": 15.03125,
+          "Y": 4.15625
+        },
+        {
+          "X": 14.96875,
+          "Y": 4.28125
+        },
+        {
+          "X": 14.78125,
+          "Y": 4.28125
+        },
+        {
+          "X": 14.59375,
+          "Y": 4.46875
+        },
+        {
+          "X": 14.46875,
+          "Y": 4.46875
+        },
+        {
+          "X": 14.46875,
+          "Y": 4.59375
+        },
+        {
+          "X": 14.28125,
+          "Y": 4.78125
+        },
+        {
+          "X": 14.28125,
+          "Y": 6.71875
+        },
+        {
+          "X": 14.40625,
+          "Y": 6.71875
+        },
+        {
+          "X": 14.40625,
+          "Y": 6.84375
+        },
+        {
+          "X": 14.65625,
+          "Y": 6.90625
+        },
+        {
+          "X": 14.71875,
+          "Y": 7.09375
+        },
+        {
+          "X": 14.84375,
+          "Y": 7.09375
+        },
+        {
+          "X": 15.65625,
+          "Y": 7.90625
+        },
+        {
+          "X": 15.65625,
+          "Y": 9.78125
+        },
+        {
+          "X": 15.46875,
+          "Y": 9.78125
+        },
+        {
+          "X": 15.46875,
+          "Y": 9.84375
+        },
+        {
+          "X": 15.21875,
+          "Y": 9.90625
+        },
+        {
+          "X": 15.21875,
+          "Y": 9.96875
+        },
+        {
+          "X": 10.71875,
+          "Y": 9.96875
+        },
+        {
+          "X": 10.71875,
+          "Y": 9.90625
+        },
+        {
+          "X": 10.34375,
+          "Y": 9.78125
+        },
+        {
+          "X": 10.28125,
+          "Y": 9.59375
+        },
+        {
+          "X": 10.21875,
+          "Y": 9.59375
+        },
+        {
+          "X": 10.21875,
+          "Y": 7.40625
+        },
+        {
+          "X": 10.28125,
+          "Y": 7.40625
+        },
+        {
+          "X": 10.34375,
+          "Y": 7.21875
+        },
+        {
+          "X": 10.53125,
+          "Y": 7.21875
+        },
+        {
+          "X": 10.71875,
+          "Y": 7.03125
+        },
+        {
+          "X": 11.15625,
+          "Y": 7.03125
+        },
+        {
+          "X": 11.21875,
+          "Y": 6.90625
+        },
+        {
+          "X": 11.59375,
+          "Y": 6.78125
+        },
+        {
+          "X": 11.59375,
+          "Y": 5.21875
+        },
+        {
+          "X": 11.46875,
+          "Y": 5.21875
+        },
+        {
+          "X": 11.28125,
+          "Y": 5.03125
+        },
+        {
+          "X": 8.96875,
+          "Y": 5.03125
+        },
+        {
+          "X": 8.96875,
+          "Y": 4.96875
+        },
+        {
+          "X": 8.59375,
+          "Y": 4.90625
+        },
+        {
+          "X": 8.53125,
+          "Y": 4.78125
+        },
+        {
+          "X": 8.21875,
+          "Y": 4.71875
+        },
+        {
+          "X": 8.03125,
+          "Y": 4.46875
+        },
+        {
+          "X": 7.90625,
+          "Y": 4.46875
+        },
+        {
+          "X": 7.90625,
+          "Y": 4.34375
+        },
+        {
+          "X": 7.71875,
+          "Y": 4.34375
+        },
+        {
+          "X": 7.71875,
+          "Y": 4.28125
+        },
+        {
+          "X": 5.78125,
+          "Y": 4.28125
+        },
+        {
+          "X": 5.71875,
+          "Y": 4.40625
+        },
+        {
+          "X": 5.46875,
+          "Y": 4.46875
+        },
+        {
+          "X": 5.46875,
+          "Y": 4.59375
+        },
+        {
+          "X": 5.34375,
+          "Y": 4.65625
+        },
+        {
+          "X": 5.34375,
+          "Y": 4.84375
+        },
+        {
+          "X": 5.28125,
+          "Y": 4.84375
+        },
+        {
+          "X": 5.21875,
+          "Y": 5.09375
+        },
+        {
+          "X": 5.15625,
+          "Y": 5.09375
+        },
+        {
+          "X": 5.15625,
+          "Y": 7.46875
+        },
+        {
+          "X": 5.21875,
+          "Y": 7.46875
+        },
+        {
+          "X": 5.21875,
+          "Y": 7.65625
+        },
+        {
+          "X": 5.40625,
+          "Y": 7.71875
+        },
+        {
+          "X": 5.46875,
+          "Y": 7.84375
+        },
+        {
+          "X": 5.65625,
+          "Y": 7.84375
+        },
+        {
+          "X": 5.71875,
+          "Y": 7.96875
+        },
+        {
+          "X": 6.09375,
+          "Y": 7.96875
+        },
+        {
+          "X": 6.09375,
+          "Y": 8.03125
+        },
+        {
+          "X": 6.28125,
+          "Y": 8.03125
+        },
+        {
+          "X": 6.28125,
+          "Y": 8.09375
+        },
+        {
+          "X": 6.59375,
+          "Y": 8.21875
+        },
+        {
+          "X": 6.59375,
+          "Y": 9.78125
+        },
+        {
+          "X": 6.46875,
+          "Y": 9.78125
+        },
+        {
+          "X": 6.28125,
+          "Y": 9.96875
+        },
+        {
+          "X": 1.71875,
+          "Y": 9.96875
+        },
+        {
+          "X": 1.53125,
+          "Y": 9.78125
+        },
+        {
+          "X": 1.40625,
+          "Y": 9.78125
+        },
+        {
+          "X": 1.40625,
+          "Y": 8.21875
+        },
+        {
+          "X": 1.71875,
+          "Y": 8.09375
+        },
+        {
+          "X": 1.71875,
+          "Y": 8.03125
+        },
+        {
+          "X": 2.28125,
+          "Y": 7.96875
+        },
+        {
+          "X": 2.46875,
+          "Y": 7.78125
+        },
+        {
+          "X": 2.65625,
+          "Y": 7.78125
+        },
+        {
+          "X": 2.78125,
+          "Y": 7.65625
+        },
+        {
+          "X": 2.78125,
+          "Y": 5.34375
+        },
+        {
+          "X": 2.65625,
+          "Y": 5.21875
+        },
+        {
+          "X": 2.53125,
+          "Y": 5.21875
+        },
+        {
+          "X": 2.53125,
+          "Y": 5.15625
+        },
+        {
+          "X": 2.40625,
+          "Y": 5.15625
+        },
+        {
+          "X": 2.40625,
+          "Y": 5.09375
+        },
+        {
+          "X": 1.90625,
+          "Y": 5.03125
+        },
+        {
+          "X": 1.90625,
+          "Y": 4.96875
+        },
+        {
+          "X": 1.71875,
+          "Y": 4.96875
+        },
+        {
+          "X": 1.65625,
+          "Y": 4.84375
+        },
+        {
+          "X": 1.28125,
+          "Y": 4.71875
+        },
+        {
+          "X": 1.21875,
+          "Y": 4.46875
+        },
+        {
+          "X": 1.09375,
+          "Y": 4.40625
+        },
+        {
+          "X": 1.09375,
+          "Y": 4.21875
+        },
+        {
+          "X": 1.03125,
+          "Y": 4.21875
+        },
+        {
+          "X": 1.03125,
+          "Y": 3.59375
+        },
+        {
+          "X": 0.96875,
+          "Y": 3.59375
+        },
+        {
+          "X": 0.96875,
+          "Y": 3.53125
+        }
+      ]
+    }
+  }
+}
