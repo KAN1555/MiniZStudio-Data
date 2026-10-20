@@ -1879,8 +1879,9 @@
   "ImportIssues": [],
   "ImageOpacity": 0.45,
   "ShowImage": false,
+  "ManualReferenceJson": null,
   "Validation": {
-    "CheckedAt": "2026-10-20T13:01:40.0646032+00:00",
+    "CheckedAt": "2026-10-20T13:21:33.9730088+00:00",
     "CanSave": true,
     "IsLayoutValid": false,
     "CanAnalyze": false,
