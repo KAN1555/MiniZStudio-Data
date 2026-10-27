@@ -309,5 +309,80 @@
       "note": "RMケース時はLホイールベース不可。100mmセンサーケーブルが必要。"
     }
   ],
-  "requirements": []
+  "requirements": [],
+  "chassisSpecifications": [
+    {
+      "chassisId": "published:kyosho:32891",
+      "motorMount": "MM",
+      "wheelbaseMm": 98,
+      "motorKv": 5600,
+      "lengthMm": 124.5,
+      "widthMm": {
+        "min": 72,
+        "max": 76
+      },
+      "heightMm": 31,
+      "weightWithoutBodyTiresWheelsG": 135.5,
+      "pinionTeethIncluded": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "gearRatios": [
+        7.3,
+        6.3,
+        5.5,
+        4.9
+      ],
+      "sourceUrl": "https://rc.kyosho.com/ja/32891.html"
+    },
+    {
+      "chassisId": "published:kyosho:32894",
+      "motorMount": "MM",
+      "wheelbaseMm": 98,
+      "motorKv": 5600,
+      "lengthMm": 124.5,
+      "widthMm": {
+        "min": 72,
+        "max": 76
+      },
+      "heightMm": 31,
+      "weightWithoutBodyTiresWheelsG": 135.5,
+      "pinionTeethIncluded": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "gearRatios": [
+        7.3,
+        6.3,
+        5.5,
+        4.9
+      ],
+      "sourceUrl": "https://rc.kyosho.com/ja/32894.html"
+    },
+    {
+      "chassisId": "published:kyosho:32892",
+      "motorMount": "MM2",
+      "wheelbaseMm": 94,
+      "motorKv": 4100,
+      "lengthMm": 120.6,
+      "heightMm": 35,
+      "weightWithoutBodyTiresWheelsG": 138,
+      "sourceUrl": "https://www.kyosho.com/rc/ja/event/pdf/BuyersGuideBook2023KyoshoAutumn%26Winter.pdf"
+    }
+  ],
+  "configurationWarnings": [
+    {
+      "chassisFamily": "MR-04EVO2",
+      "condition": "RM motor case installed",
+      "restriction": "wheelbase L unavailable",
+      "requiredPartNumber": "R246-8580",
+      "requiredPartDescription": "100mm silicon sensor cable",
+      "sourceUrl": "https://rc.kyosho.com/ja/32891.html",
+      "status": "official-product-note"
+    }
+  ]
 }
