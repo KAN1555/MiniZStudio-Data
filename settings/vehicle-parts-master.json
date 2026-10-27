@@ -27,7 +27,7 @@
       "name": "サーボセイバーアッセンブリー(MR-03)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ405",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -37,17 +37,17 @@
       "name": "ピニオンギヤセット(ブラック)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ6BK",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
     {
       "id": "published:kyosho:MZ701",
       "category": "Other",
-      "name": "Main chassis MR-04",
+      "name": "メインシャシー(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ701",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -57,7 +57,7 @@
       "name": "レシーバーカバーセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ702",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -67,17 +67,17 @@
       "name": "シャシー小物セット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ703",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
     {
       "id": "published:kyosho:MZ705",
       "category": "Motor",
-      "name": "XSPEED 56 motor 5600KV",
+      "name": "XSPEED 56 センサード ブラシレスモーター 5600KV",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ705",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -87,7 +87,7 @@
       "name": "センサーワイヤー(80mm)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ707",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -97,7 +97,7 @@
       "name": "サスペンション小物パーツセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ708",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -107,17 +107,17 @@
       "name": "サスペンション小物パーツセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ708B",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
     {
       "id": "published:kyosho:MZ709",
       "category": "Other",
-      "name": "Servo gear set MR-04",
+      "name": "サーボギヤセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ709",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -127,7 +127,7 @@
       "name": "フロントサスペンションアームセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ710",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -137,7 +137,7 @@
       "name": "サスペンションシャフトセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ711",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -147,7 +147,7 @@
       "name": "ビスセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ712",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -157,7 +157,7 @@
       "name": "RCユニットセット(MR-04EVO2)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ713",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -167,17 +167,17 @@
       "name": "ポテンショメーター",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ713-1",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
     {
       "id": "published:kyosho:MZ714",
       "category": "Other",
-      "name": "Motor case MR-04MM",
+      "name": "モーターケースセット(MR-04MM)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ714",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -194,10 +194,10 @@
     {
       "id": "published:kyosho:MZ716",
       "category": "Other",
-      "name": "Ball bearing set MR-04",
+      "name": "ボールベアリングセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ716",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -207,7 +207,7 @@
       "name": "R/Cユニットセット(RWD/MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ717",
-      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -234,10 +234,10 @@
     {
       "id": "published:kyosho:MZW705",
       "category": "Other",
-      "name": "Ball differential set MR-04",
+      "name": "ボールデフセット(MR-04)",
       "manufacturer": "KYOSHO",
       "partNumber": "MZW705",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     }
