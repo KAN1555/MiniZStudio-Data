@@ -1,5 +1,116 @@
 {
   "schemaVersion": 1,
-  "parts": [],
+  "parts": [
+    {
+      "id": "published:kyosho:MZ701",
+      "category": "Other",
+      "name": "Main chassis MR-04",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ701",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ705",
+      "category": "Motor",
+      "name": "XSPEED 56 motor 5600KV",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ705",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ709",
+      "category": "Other",
+      "name": "Servo gear set MR-04",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ709",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ714",
+      "category": "Other",
+      "name": "Motor case MR-04MM",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ714",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ716",
+      "category": "Other",
+      "name": "Ball bearing set MR-04",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ716",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZW705",
+      "category": "Other",
+      "name": "Ball differential set MR-04",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZW705",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZW701",
+      "category": "Other",
+      "name": "Front spring set MR-04",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZW701",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZW702-1",
+      "category": "Other",
+      "name": "Camber knuckle 1 degree MR-04",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZW702-1",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ715",
+      "category": "Other",
+      "name": "Motor case MR-04MM2",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ715",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44946/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:82044",
+      "category": "Other",
+      "name": "MINI-Z EVO2 receiver Futaba compatible",
+      "manufacturer": "KYOSHO",
+      "partNumber": "82044",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44499/type/2/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:82045",
+      "category": "Other",
+      "name": "MINI-Z EVO2 receiver KO compatible",
+      "manufacturer": "KYOSHO",
+      "partNumber": "82045",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44499/type/2/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    }
+  ],
   "bodies": []
 }
