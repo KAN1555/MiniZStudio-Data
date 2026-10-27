@@ -10,6 +10,12 @@
       "name": "車両パーツ・ボディ固定マスター",
       "path": "settings/vehicle-parts-master.json",
       "version": 1
+    },
+    {
+      "id": "mr04evo2-compatibility",
+      "name": "MR-04EVO2 パーツ適合データ",
+      "path": "settings/mr04evo2-compatibility.json",
+      "version": 1
     }
   ],
   "lapRecords": []
