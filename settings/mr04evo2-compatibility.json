@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-27",
+  "chassis": [
+    {
+      "id": "published:kyosho:32891",
+      "manufacturer": "KYOSHO",
+      "partNumber": "32891",
+      "name": "MR-04EVO2 W-MM 5600KV",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "id": "published:kyosho:32894",
+      "manufacturer": "KYOSHO",
+      "partNumber": "32894",
+      "name": "MR-04EVO2 W-MM 5600KV",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/50770/type/1/"
+    }
+  ],
+  "compatibility": [
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ405",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ6BK",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ701",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ702",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ703",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ705",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ707",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ708",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ708B",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ709",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ710",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ711",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ712",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ713",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ713-1",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ714",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ716",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZ717",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    },
+    {
+      "chassisId": "published:kyosho:32891",
+      "partId": "published:kyosho:MZW705",
+      "relation": "spare",
+      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+    }
+  ]
+}
