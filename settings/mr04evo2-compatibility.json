@@ -132,5 +132,46 @@
       "relation": "spare",
       "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
     }
+  ],
+  "manualSources": [
+    {
+      "type": "instruction",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/32890-32891-32892-MR-04EVO2.pdf",
+      "appliesTo": [
+        "32890",
+        "32891",
+        "32892"
+      ],
+      "note": "京商MR-04EVO2取扱説明書。スペアパーツ一覧を確認。"
+    },
+    {
+      "type": "partsList",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MR-04EVO2_partslist_202312.pdf",
+      "note": "2023年12月版パーツリスト。ピニオン6T～9Tを掲載。"
+    },
+    {
+      "type": "bodyCompatibility",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MR-04EVO2_body_202402.pdf",
+      "note": "ボディ適合表。RMへの変更が必要な車種がある。"
+    }
+  ],
+  "technicalNotes": [
+    {
+      "subject": "32891",
+      "wheelbaseMm": 98,
+      "motorKv": 5600,
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/32891.html"
+    },
+    {
+      "subject": "32892",
+      "wheelbaseMm": 94,
+      "motorKv": 4100,
+      "sourceUrl": "https://rc.kyosho.com/ja/32892.html"
+    },
+    {
+      "subject": "RM motor mount",
+      "note": "RMモーターケース装着時にホイールベースL不可、100mmセンサーケーブルR246-8580が必要",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/32891.html"
+    }
   ]
 }
