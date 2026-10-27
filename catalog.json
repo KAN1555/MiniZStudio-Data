@@ -1,9 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-27",
   "layouts": [],
   "regulations": [],
   "vehicles": [],
-  "settings": [],
+  "settings": [
+    {
+      "id": "vehicle-parts-master",
+      "name": "車両パーツ・ボディ固定マスター",
+      "path": "settings/vehicle-parts-master.json",
+      "version": 1
+    }
+  ],
   "lapRecords": []
 }
