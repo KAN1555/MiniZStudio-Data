@@ -3,18 +3,46 @@
   "updatedAt": "2026-10-27",
   "chassis": [
     {
+      "id": "published:kyosho:32890",
+      "manufacturer": "KYOSHO",
+      "partNumber": "32890",
+      "name": "MR-04EVO2 W-MM/8500KV",
+      "sourceUrl": "https://rc.kyosho.com/ja/32890.html"
+    },
+    {
       "id": "published:kyosho:32891",
       "manufacturer": "KYOSHO",
       "partNumber": "32891",
-      "name": "MR-04EVO2 W-MM 5600KV",
-      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/"
+      "name": "MR-04EVO2 W-MM/5600KV",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/32891.html"
+    },
+    {
+      "id": "published:kyosho:32892",
+      "manufacturer": "KYOSHO",
+      "partNumber": "32892",
+      "name": "MR-04EVO2 N-MM2/4100KV",
+      "sourceUrl": "https://rc.kyosho.com/ja/32892.html"
+    },
+    {
+      "id": "published:kyosho:32893",
+      "manufacturer": "KYOSHO",
+      "partNumber": "32893",
+      "name": "MR-04EVO2 W-MM/8500KV (2026)",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/32893.html"
     },
     {
       "id": "published:kyosho:32894",
       "manufacturer": "KYOSHO",
       "partNumber": "32894",
-      "name": "MR-04EVO2 W-MM 5600KV",
-      "sourceUrl": "https://rc.kyosho.com/ja/compatible/index/index/product_id/50770/type/1/"
+      "name": "MR-04EVO2 W-MM/5600KV (2026)",
+      "sourceUrl": "https://rc.kyosho.com/ja/newitem/2026-5/32894.html"
+    },
+    {
+      "id": "published:kyosho:32895",
+      "manufacturer": "KYOSHO",
+      "partNumber": "32895",
+      "name": "MR-04EVO2 N-MM2/4100KV (2026)",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/minizevo/mr04evo2.html"
     }
   ],
   "compatibility": [
@@ -142,17 +170,7 @@
         "32891",
         "32892"
       ],
-      "note": "京商MR-04EVO2取扱説明書。スペアパーツ一覧を確認。"
-    },
-    {
-      "type": "partsList",
-      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MR-04EVO2_partslist_202312.pdf",
-      "note": "2023年12月版パーツリスト。ピニオン6T～9Tを掲載。"
-    },
-    {
-      "type": "bodyCompatibility",
-      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MR-04EVO2_body_202402.pdf",
-      "note": "ボディ適合表。RMへの変更が必要な車種がある。"
+      "note": "京商公式MR-04EVO2取扱説明書"
     }
   ],
   "technicalNotes": [
@@ -173,5 +191,123 @@
       "note": "RMモーターケース装着時にホイールベースL不可、100mmセンサーケーブルR246-8580が必要",
       "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/32891.html"
     }
-  ]
+  ],
+  "modelSpecifications": [
+    {
+      "chassisId": "published:kyosho:32891",
+      "variant": "W-MM/5600KV",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/32891.html",
+      "motorKv": 5600,
+      "motorMount": "MM",
+      "wheelbaseMm": 98,
+      "frontTreadMm": [
+        63.5,
+        65
+      ],
+      "rearTreadMm": [
+        61.5,
+        65
+      ],
+      "lengthMm": 124.5,
+      "widthMm": [
+        72,
+        76
+      ],
+      "heightMm": 31,
+      "weightWithoutBodyTiresWheelsG": 135.5,
+      "pinionTeeth": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "gearRatios": [
+        7.3,
+        6.3,
+        5.5,
+        4.9
+      ]
+    },
+    {
+      "chassisId": "published:kyosho:32893",
+      "variant": "W-MM/8500KV (2026)",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/32893.html",
+      "motorKv": 8500,
+      "motorMount": "MM",
+      "wheelbaseMm": 98,
+      "frontTreadMm": [
+        63.5,
+        65
+      ],
+      "rearTreadMm": [
+        61.5,
+        65
+      ],
+      "lengthMm": 124.5,
+      "widthMm": [
+        72,
+        76
+      ],
+      "heightMm": 31,
+      "weightWithoutBodyTiresWheelsG": 135.5,
+      "pinionTeeth": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "gearRatios": [
+        7.3,
+        6.3,
+        5.5,
+        4.9
+      ]
+    },
+    {
+      "chassisId": "published:kyosho:32894",
+      "variant": "W-MM/5600KV (2026)",
+      "sourceUrl": "https://rc.kyosho.com/ja/newitem/2026-5/32894.html",
+      "motorKv": 5600,
+      "motorMount": "MM",
+      "wheelbaseMm": 98,
+      "frontTreadMm": [
+        63.5,
+        65
+      ],
+      "rearTreadMm": [
+        61.5,
+        65
+      ],
+      "lengthMm": 124.5,
+      "widthMm": [
+        72,
+        76
+      ],
+      "heightMm": 31,
+      "weightWithoutBodyTiresWheelsG": 135.5,
+      "pinionTeeth": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "gearRatios": [
+        7.3,
+        6.3,
+        5.5,
+        4.9
+      ]
+    }
+  ],
+  "configurationRules": [
+    {
+      "chassisId": "published:kyosho:32891",
+      "condition": "RM motor case installed",
+      "forbiddenWheelbase": "L",
+      "requiredAdditionalPart": "R246-8580",
+      "sourceUrl": "https://rc.kyosho.com/ja/rccar/miniz/32891.html",
+      "note": "RMケース時はLホイールベース不可。100mmセンサーケーブルが必要。"
+    }
+  ],
+  "requirements": []
 }
