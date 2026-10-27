@@ -2,12 +2,72 @@
   "schemaVersion": 1,
   "parts": [
     {
+      "id": "published:kyosho:82044",
+      "category": "Other",
+      "name": "MINI-Z EVO2 receiver Futaba compatible",
+      "manufacturer": "KYOSHO",
+      "partNumber": "82044",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44499/type/2/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:82045",
+      "category": "Other",
+      "name": "MINI-Z EVO2 receiver KO compatible",
+      "manufacturer": "KYOSHO",
+      "partNumber": "82045",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44499/type/2/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ405",
+      "category": "Other",
+      "name": "サーボセイバーアッセンブリー(MR-03)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ405",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ6BK",
+      "category": "Pinion",
+      "name": "ピニオンギヤセット(ブラック)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ6BK",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
       "id": "published:kyosho:MZ701",
       "category": "Other",
       "name": "Main chassis MR-04",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ701",
       "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ702",
+      "category": "Other",
+      "name": "レシーバーカバーセット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ702",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ703",
+      "category": "Other",
+      "name": "シャシー小物セット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ703",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -22,12 +82,92 @@
       "physicsValues": {}
     },
     {
+      "id": "published:kyosho:MZ707",
+      "category": "Other",
+      "name": "センサーワイヤー(80mm)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ707",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ708",
+      "category": "Other",
+      "name": "サスペンション小物パーツセット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ708",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ708B",
+      "category": "Other",
+      "name": "サスペンション小物パーツセット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ708B",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
       "id": "published:kyosho:MZ709",
       "category": "Other",
       "name": "Servo gear set MR-04",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ709",
       "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ710",
+      "category": "Other",
+      "name": "フロントサスペンションアームセット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ710",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ711",
+      "category": "Other",
+      "name": "サスペンションシャフトセット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ711",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ712",
+      "category": "Other",
+      "name": "ビスセット(MR-04)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ712",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ713",
+      "category": "Other",
+      "name": "RCユニットセット(MR-04EVO2)",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ713",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZ713-1",
+      "category": "Other",
+      "name": "ポテンショメーター",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ713-1",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -42,6 +182,16 @@
       "physicsValues": {}
     },
     {
+      "id": "published:kyosho:MZ715",
+      "category": "Other",
+      "name": "Motor case MR-04MM2",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ715",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44946/。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
       "id": "published:kyosho:MZ716",
       "category": "Other",
       "name": "Ball bearing set MR-04",
@@ -52,12 +202,12 @@
       "physicsValues": {}
     },
     {
-      "id": "published:kyosho:MZW705",
+      "id": "published:kyosho:MZ717",
       "category": "Other",
-      "name": "Ball differential set MR-04",
+      "name": "R/Cユニットセット(RWD/MR-04)",
       "manufacturer": "KYOSHO",
-      "partNumber": "MZW705",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
+      "partNumber": "MZ717",
+      "notes": "京商公式MR-04EVO2(32891)スペアパーツ一覧。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     },
@@ -82,32 +232,12 @@
       "physicsValues": {}
     },
     {
-      "id": "published:kyosho:MZ715",
+      "id": "published:kyosho:MZW705",
       "category": "Other",
-      "name": "Motor case MR-04MM2",
+      "name": "Ball differential set MR-04",
       "manufacturer": "KYOSHO",
-      "partNumber": "MZ715",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44946/。物理値未登録。",
-      "enabled": true,
-      "physicsValues": {}
-    },
-    {
-      "id": "published:kyosho:82044",
-      "category": "Other",
-      "name": "MINI-Z EVO2 receiver Futaba compatible",
-      "manufacturer": "KYOSHO",
-      "partNumber": "82044",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44499/type/2/。物理値未登録。",
-      "enabled": true,
-      "physicsValues": {}
-    },
-    {
-      "id": "published:kyosho:82045",
-      "category": "Other",
-      "name": "MINI-Z EVO2 receiver KO compatible",
-      "manufacturer": "KYOSHO",
-      "partNumber": "82045",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44499/type/2/。物理値未登録。",
+      "partNumber": "MZW705",
+      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/mm20260417-miniz-rwd。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
     }
