@@ -72,14 +72,40 @@
       "physicsValues": {}
     },
     {
+      "id": "published:kyosho:MZ704",
+      "category": "Motor",
+      "name": "XSPEED 85 センサード ブラシレスモーター 8500KV",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ704",
+      "notes": "京商公式製品仕様: https://rc.kyosho.com/ja/mz704.html。公称8500KV。実測値ではありません。",
+      "enabled": true,
+      "physicsValues": {
+        "TheoryMotorKv": 8500
+      }
+    },
+    {
       "id": "published:kyosho:MZ705",
       "category": "Motor",
       "name": "XSPEED 56 センサード ブラシレスモーター 5600KV",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ705",
-      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
+      "notes": "京商公式製品仕様: https://rc.kyosho.com/ja/mz705.html。公称5600KV。実測値ではありません。",
       "enabled": true,
-      "physicsValues": {}
+      "physicsValues": {
+        "TheoryMotorKv": 5600
+      }
+    },
+    {
+      "id": "published:kyosho:MZ706",
+      "category": "Motor",
+      "name": "XSPEED 41 センサード ブラシレスモーター 4100KV",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZ706",
+      "notes": "京商公式製品仕様: https://rc.kyosho.com/ja/mz706.html。公称4100KV。実測値ではありません。",
+      "enabled": true,
+      "physicsValues": {
+        "TheoryMotorKv": 4100
+      }
     },
     {
       "id": "published:kyosho:MZ707",
@@ -173,21 +199,21 @@
     },
     {
       "id": "published:kyosho:MZ714",
-      "category": "Other",
-      "name": "モーターケースセット(MR-04MM)",
+      "category": "MotorMount",
+      "name": "モーターケースセット（MR-04 MM）",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ714",
-      "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
+      "notes": "京商公式製品仕様: https://rc.kyosho.com/ja/mz714.html。MMマウント。寸法・重量の物理値は未登録。",
       "enabled": true,
       "physicsValues": {}
     },
     {
       "id": "published:kyosho:MZ715",
-      "category": "Other",
-      "name": "Motor case MR-04MM2",
+      "category": "MotorMount",
+      "name": "モーターケースセット（MR-04 MM2）",
       "manufacturer": "KYOSHO",
       "partNumber": "MZ715",
-      "notes": "京商公式掲載。出典: https://rc.kyosho.com/ja/compatible/index/index/product_id/44946/。物理値未登録。",
+      "notes": "京商公式製品仕様: https://rc.kyosho.com/ja/mz715.html。MM2マウント。寸法・重量の物理値は未登録。",
       "enabled": true,
       "physicsValues": {}
     },
