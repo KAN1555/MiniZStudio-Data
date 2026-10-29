@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-29",
   "layouts": [],
   "regulations": [],
   "vehicles": [],
@@ -9,7 +9,7 @@
       "id": "vehicle-parts-master",
       "name": "車両パーツ・ボディ固定マスター",
       "path": "settings/vehicle-parts-master.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "mr04evo2-compatibility",
