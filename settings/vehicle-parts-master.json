@@ -266,6 +266,26 @@
       "notes": "京商公式32891スペアパーツ一覧: https://rc.kyosho.com/ja/compatible/index/index/product_id/44498/type/1/。適合範囲は品番・構成別に確認。物理値未登録。",
       "enabled": true,
       "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZW714-MM",
+      "category": "MotorMount",
+      "name": "アルミモーターマウント（MR-04/MM）",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZW714-MM",
+      "notes": "京商公式製品：https://rc.kyosho.com/ja/mzw714-mm.html。装着可否はボディ・ホイールベースと併せて確認。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
+    },
+    {
+      "id": "published:kyosho:MZW714-LM",
+      "category": "MotorMount",
+      "name": "アルミモーターマウント（MR-04/LM）",
+      "manufacturer": "KYOSHO",
+      "partNumber": "MZW714-LM",
+      "notes": "京商公式製品：https://rc.kyosho.com/ja/mzw714-lm.html。装着可否はボディ・ホイールベースと併せて確認。物理値未登録。",
+      "enabled": true,
+      "physicsValues": {}
     }
   ],
   "bodies": []
