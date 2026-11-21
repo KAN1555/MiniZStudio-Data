@@ -1,0 +1,1618 @@
+{
+  "Version": 2,
+  "Reference": {
+    "CourseId": "66724f2a-d23e-4e95-bb60-593f274ce089",
+    "LayoutHash": "AA83017B5822EDA1296269A688C092B1315849445F6759F5D45B4495C76B2C25",
+    "Revision": "5EA57A19C22992A50F7928C3B1214E2D6393996F5FCB043E283AB61876C80845"
+  },
+  "PlanVersion": 1,
+  "SourceHash": "AA83017B5822EDA1296269A688C092B1315849445F6759F5D45B4495C76B2C25",
+  "Confirmed": true,
+  "Templates": [
+    {
+      "TemplateId": "04B52AE5F30CA839AC74264725231A686FDF13C60CDA0E4BD368FD7FE8E350D5",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "05DCF0E427BE1B7EB3D94F878137CE369F082C72F17AE8C1D83427A8AAFE4651",
+      "Type": "Corner",
+      "CornerKind": "Large",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 3,
+          "Y": 0,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "RegionId": "road"
+        },
+        {
+          "X": 3,
+          "Y": 2,
+          "RegionId": "road"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 2,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 3,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "06BFBCD25CFF3E7B7BBDBE8A2A3F6857ED55BBFC47E9AF1C2537129DDE9D876D",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "1754AC94C09906163576AA67ED5D81C2BA684018FBD7367683AACBB5B06C9D67",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 3,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 4,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 5,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 6,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 7,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 8,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 9,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 10,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 11,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 12,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 13,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 14,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 15,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 16,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 17,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 5,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 6,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 7,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 8,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 9,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 10,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 11,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 12,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 13,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 14,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 15,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 16,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 17,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 3,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 6,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 7,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 8,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 9,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 10,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 11,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 12,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 13,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 14,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 15,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 16,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 17,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "18115F62594D73D83D7D3E6805CA46EDF606D3A94CB6C17675214B540AC6E02E",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "27C4571690993E43197B858BA8D3C6E8C7532FF6555CA91D9ED7DE7BECAD1F15",
+      "Type": "Corner",
+      "CornerKind": "Large",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "RegionId": "outside-r560"
+        }
+      ]
+    },
+    {
+      "TemplateId": "366AFD5C587519E67E548A69A86A9A5BA9DAF88660BF735EBBFB317EC9EB1E02",
+      "Type": "Corner",
+      "CornerKind": "Ninety",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "RegionId": "outside-r60"
+        }
+      ]
+    },
+    {
+      "TemplateId": "468B44BD6D3219E5DB1356F211F74982920B634D2C4150898D93FF8E8ABDBF37",
+      "Type": "Corner",
+      "CornerKind": "Compound",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "outside-r60"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "50FF124840FBF819D29D67FE120F3955E0563A24A60750E5EC6AEB5A4197AEA3",
+      "Type": "Corner",
+      "CornerKind": "S",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "outside-r60"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "outside-r60"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "inside-r440"
+        }
+      ]
+    },
+    {
+      "TemplateId": "5E892CB4203340555A3D014852E417AA602D1CBA50B87172D63B7192BF0383A2",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    },
+    {
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "Type": "Corner",
+      "CornerKind": "Ninety",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "outside-r60"
+        }
+      ]
+    },
+    {
+      "TemplateId": "687FC7C3543D285A14B5E4316B6FB6EEC4F518AF0BB366AB589A5BCAB50E9565",
+      "Type": "Corner",
+      "CornerKind": "Compound",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "road"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 3,
+          "Y": 0,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 4,
+          "Y": 0,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 5,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 6,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "outside-r60"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "RegionId": "outside-r60"
+        },
+        {
+          "X": 5,
+          "Y": 1,
+          "RegionId": "road"
+        },
+        {
+          "X": 6,
+          "Y": 1,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "RegionId": "outside-r60"
+        },
+        {
+          "X": 3,
+          "Y": 2,
+          "RegionId": "road"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "RegionId": "road"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 6,
+          "Y": 2,
+          "RegionId": "outside-r560"
+        },
+        {
+          "X": 2,
+          "Y": 3,
+          "RegionId": "inside-r440"
+        },
+        {
+          "X": 3,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "RegionId": "inside-r440"
+        }
+      ]
+    },
+    {
+      "TemplateId": "A519DCA9C3289B1F9DB43A37BFADA5D085404AD37A8BD0056F15378C41823DE9",
+      "Type": "Straight",
+      "CornerKind": "None",
+      "Cells": [
+        {
+          "X": 0,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "RegionId": "left-of-wall"
+        }
+      ]
+    }
+  ],
+  "Sections": [
+    {
+      "SectionId": "S1",
+      "TemplateId": "1754AC94C09906163576AA67ED5D81C2BA684018FBD7367683AACBB5B06C9D67",
+      "OriginX": 4,
+      "OriginY": 0,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S2",
+      "TemplateId": "18115F62594D73D83D7D3E6805CA46EDF606D3A94CB6C17675214B540AC6E02E",
+      "OriginX": 6,
+      "OriginY": 4,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        1,
+        3,
+        5,
+        0,
+        2,
+        4
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S3",
+      "TemplateId": "5E892CB4203340555A3D014852E417AA602D1CBA50B87172D63B7192BF0383A2",
+      "OriginX": 14,
+      "OriginY": 3,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S4",
+      "TemplateId": "5E892CB4203340555A3D014852E417AA602D1CBA50B87172D63B7192BF0383A2",
+      "OriginX": 20,
+      "OriginY": 4,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S5",
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "OriginX": 20,
+      "OriginY": 6,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S6",
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "OriginX": 10,
+      "OriginY": 10,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S7",
+      "TemplateId": "06BFBCD25CFF3E7B7BBDBE8A2A3F6857ED55BBFC47E9AF1C2537129DDE9D876D",
+      "OriginX": 0,
+      "OriginY": 4,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S8",
+      "TemplateId": "04B52AE5F30CA839AC74264725231A686FDF13C60CDA0E4BD368FD7FE8E350D5",
+      "OriginX": 8,
+      "OriginY": 7,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S9",
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "OriginX": 8,
+      "OriginY": 9,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        0,
+        1
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S10",
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "OriginX": 9,
+      "OriginY": 5,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        0,
+        1
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S11",
+      "TemplateId": "A519DCA9C3289B1F9DB43A37BFADA5D085404AD37A8BD0056F15378C41823DE9",
+      "OriginX": 12,
+      "OriginY": 5,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S12",
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "OriginX": 14,
+      "OriginY": 7,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        0,
+        1
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "S13",
+      "TemplateId": "1BED8B23F629C4106EC6B7300934CA710FD70E4C6BFF2CF76E0A5CA81530F8DD",
+      "OriginX": 22,
+      "OriginY": 3,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        0,
+        1
+      ],
+      "TurnDirection": "None",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C1",
+      "TemplateId": "05DCF0E427BE1B7EB3D94F878137CE369F082C72F17AE8C1D83427A8AAFE4651",
+      "OriginX": 3,
+      "OriginY": 0,
+      "QuarterTurns": 1,
+      "RegionOrder": [
+        12,
+        8,
+        13,
+        4,
+        9,
+        14,
+        0,
+        5,
+        10,
+        15,
+        1,
+        6,
+        11,
+        2,
+        7,
+        3
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C2",
+      "TemplateId": "366AFD5C587519E67E548A69A86A9A5BA9DAF88660BF735EBBFB317EC9EB1E02",
+      "OriginX": 23,
+      "OriginY": 0,
+      "QuarterTurns": 1,
+      "RegionOrder": [
+        3,
+        0,
+        4,
+        1,
+        5,
+        2
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C4",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 10,
+      "OriginY": 3,
+      "QuarterTurns": 1,
+      "RegionOrder": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C5",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 12,
+      "OriginY": 3,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C8",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 23,
+      "OriginY": 5,
+      "QuarterTurns": 2,
+      "RegionOrder": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C9",
+      "TemplateId": "468B44BD6D3219E5DB1356F211F74982920B634D2C4150898D93FF8E8ABDBF37",
+      "OriginX": 8,
+      "OriginY": 6,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2
+      ],
+      "TurnDirection": "Both",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C11",
+      "TemplateId": "468B44BD6D3219E5DB1356F211F74982920B634D2C4150898D93FF8E8ABDBF37",
+      "OriginX": 10,
+      "OriginY": 8,
+      "QuarterTurns": 2,
+      "RegionOrder": [
+        2,
+        1,
+        0
+      ],
+      "TurnDirection": "Both",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C12",
+      "TemplateId": "27C4571690993E43197B858BA8D3C6E8C7532FF6555CA91D9ED7DE7BECAD1F15",
+      "OriginX": 13,
+      "OriginY": 11,
+      "QuarterTurns": 2,
+      "RegionOrder": [
+        8,
+        7,
+        5,
+        6,
+        4,
+        2,
+        3,
+        1,
+        0
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C13",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 8,
+      "OriginY": 11,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": null,
+      "ParentCornerKind": null
+    },
+    {
+      "SectionId": "C3-a",
+      "TemplateId": "05DCF0E427BE1B7EB3D94F878137CE369F082C72F17AE8C1D83427A8AAFE4651",
+      "OriginX": 0,
+      "OriginY": 8,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C3",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C3-b-a",
+      "TemplateId": "687FC7C3543D285A14B5E4316B6FB6EEC4F518AF0BB366AB589A5BCAB50E9565",
+      "OriginX": 4,
+      "OriginY": 11,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        6,
+        13,
+        19,
+        5,
+        12,
+        18,
+        23,
+        4,
+        11,
+        17,
+        22,
+        3,
+        10,
+        16,
+        21,
+        2,
+        9,
+        15,
+        20,
+        1,
+        8,
+        14,
+        0,
+        7
+      ],
+      "TurnDirection": "Both",
+      "ParentSectionId": "C3",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C3-b-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 4,
+      "OriginY": 3,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C3",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C6-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 14,
+      "OriginY": 5,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C6",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C6-a-a",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 17,
+      "OriginY": 3,
+      "QuarterTurns": 1,
+      "RegionOrder": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C6",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C6-a-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 17,
+      "OriginY": 6,
+      "QuarterTurns": 2,
+      "RegionOrder": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C6",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-b",
+      "TemplateId": "27C4571690993E43197B858BA8D3C6E8C7532FF6555CA91D9ED7DE7BECAD1F15",
+      "OriginX": 23,
+      "OriginY": 6,
+      "QuarterTurns": 1,
+      "RegionOrder": [
+        6,
+        3,
+        0,
+        7,
+        4,
+        1,
+        8,
+        5,
+        2
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-b",
+      "TemplateId": "27C4571690993E43197B858BA8D3C6E8C7532FF6555CA91D9ED7DE7BECAD1F15",
+      "OriginX": 23,
+      "OriginY": 11,
+      "QuarterTurns": 2,
+      "RegionOrder": [
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-a-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 19,
+      "OriginY": 11,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-a-a-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 20,
+      "OriginY": 8,
+      "QuarterTurns": 1,
+      "RegionOrder": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-a-a-a-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 17,
+      "OriginY": 8,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-a-a-a-a-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 18,
+      "OriginY": 11,
+      "QuarterTurns": 2,
+      "RegionOrder": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-a-a-a-a-a-a",
+      "TemplateId": "50FF124840FBF819D29D67FE120F3955E0563A24A60750E5EC6AEB5A4197AEA3",
+      "OriginX": 14,
+      "OriginY": 9,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        1,
+        3,
+        5,
+        0,
+        2,
+        4
+      ],
+      "TurnDirection": "Both",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C10-a-a-a-a-a-a-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 15,
+      "OriginY": 11,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "TurnDirection": "Left",
+      "ParentSectionId": "C10",
+      "ParentCornerKind": "Compound"
+    },
+    {
+      "SectionId": "C7-a",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 18,
+      "OriginY": 4,
+      "QuarterTurns": 0,
+      "RegionOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C7",
+      "ParentCornerKind": "Hairpin"
+    },
+    {
+      "SectionId": "C7-b",
+      "TemplateId": "648019427923AD1BB5291044F86D653DF655AEAE0277962B6B9B06FC1A8FD414",
+      "OriginX": 18,
+      "OriginY": 7,
+      "QuarterTurns": 3,
+      "RegionOrder": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "TurnDirection": "Right",
+      "ParentSectionId": "C7",
+      "ParentCornerKind": "Hairpin"
+    }
+  ]
+}
